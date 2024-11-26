@@ -1,0 +1,6 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "black",
+    "python.pythonPath": ".venv/bin/python" // Ensure this points to your virtual environment
+}
