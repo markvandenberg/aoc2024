@@ -2,4 +2,8 @@
 .vscode
 __pycache__
 input.txt
-test_input.txt
+test_input_1.txt
+test_input_2.txt
+assert_answer_1.txt
+assert_answer_2.txt
+session_token.txt
